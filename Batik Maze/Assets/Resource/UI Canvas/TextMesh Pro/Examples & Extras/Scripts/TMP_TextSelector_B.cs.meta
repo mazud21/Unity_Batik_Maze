@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8061db503616a0b4d8a71ba97ee9e28b
+timeCreated: 1435531209
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TextPopup_Prefab_01: {fileID: 22450954, guid: c879e892866c8db4f8930b25672233ac,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
